@@ -126,7 +126,7 @@ def login():
             sqliteDB.execute(sql)
             sqliteDB.commit()
             cur = sqliteDB.execute('SELECT * FROM userinfo')
-            print('success',cur.fetchall())
+            # print('success',cur.fetchall())
             sqliteDB.close()
         except Exception as error:
             print(error)
