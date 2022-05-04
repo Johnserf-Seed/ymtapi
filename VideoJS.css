@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "VideoJS";
+    src: url("https://cdn.jsdelivr.net/gh/Johnserf-Seed/ymtapi/VideoJS.woff");
+}
+
+p {
+    font-family: "VideoJS";
+}
+
+div {
+    font-family: "VideoJS";
+}
+
+ul {
+    font-family: "VideoJS";
+}
+
+a {
+    font-family: "VideoJS";
+}
+
+span {
+    font-family: "VideoJS";
+}
